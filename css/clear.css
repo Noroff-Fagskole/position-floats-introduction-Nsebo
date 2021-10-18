@@ -1,0 +1,15 @@
+.float {
+  margin: 0px;
+  float: right;
+  width: 320px;
+}
+
+div {
+  border: 1px solid blueviolet;
+}
+
+/* helper class */
+
+.clear {
+  clear: right;
+}
